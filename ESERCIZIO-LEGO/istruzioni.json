@@ -1,0 +1,29 @@
+{
+ "istruzioni": [
+    { 
+        "Set Number" : "LEGO 3830",
+        "Set Theme": "Spongebob Squarepants",
+        "Set Name": "Bikini Bottom Express",
+        "Year": "2008",
+        "imgSrc": "Model1/2.jpg",
+        "id" : "Sponge"
+    },
+    
+    { 
+        "Set Number" : "LEGO 4165",
+        "Set Theme": "Mickey Mouse",
+        "Set Name": "Minnie's Birthday Party",
+        "Year": "2000",
+        "imgSrc": "Model2/2.jpg",
+        "id" : "Minnie"
+    },
+
+    { 
+        "Set Number" : "href=https://letsbuilditagain.com/instructions/7621/ LEGO 7621",
+        "Set Theme": "href= https://letsbuilditagain.com/lego-instructions.php?cat_id=7&lego-books#7 Indiana Jones",
+        "Set Name": "href=https://letsbuilditagain.com/instructions/7621/ Indiana Jones and The Lost Tomb",
+        "Year": "href= https://letsbuilditagain.com/search_year.php?q=2008 2008",
+        "imgSrc": "Model3/2.jpg",
+        "id" : "Indiana"
+    }]
+}
